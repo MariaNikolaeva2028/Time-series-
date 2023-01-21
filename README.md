@@ -1,2 +1,15 @@
-# Time-series-
-A project for working with time series. The goal was to perform exponential smoothing, build a linear trend, and calculate the coefficient of determination.
+# Time-series-/ Временные ряды
+
+### Содержание
+* Описание
+* Ссылки
+
+**Описание**
+
+На основе данных временного ряда выполнено экспоненциальное сглаживание(двумя способами) с коэффициентом сглаживания 0,15. Был построен линейный тренд, а также расчитан коэффициент детерминации. Проект является учебным и направлен на отработку навыков работы с временными рядами.
+
+**Сcылки**
+
+Отчет был построен на основе данных:
+
+* [Ссылка на массив данных](https://courses.openedu.ru/assets/courseware/v1/fdbd99c2d4e15140789f7a234a0da395/asset-v1:ITMOUniversity+DATANTECH2035+fall_2021_3+type@asset+block/task5_529088.csv)
